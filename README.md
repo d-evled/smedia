@@ -1,3 +1,2 @@
-# smedia
-HELLO
+# BALH smedia
 WIP - personal project
